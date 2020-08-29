@@ -12,7 +12,7 @@ Link of the book [Book Link](https://link.springer.com/book/10.1007/978-3-319-14
 ### Todoist
 
 - [x] Introduction to Programming Exercises
-- [ ] If Statement Exercises
+- [x] If Statement Exercises
 - [ ] Loop Exercises
 - [ ] Function Exercises
 - [ ] List Exercises
