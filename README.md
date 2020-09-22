@@ -13,7 +13,7 @@ Link of the book [Book Link](https://link.springer.com/book/10.1007/978-3-319-14
 
 - [x] Introduction to Programming Exercises
 - [x] If Statement Exercises
-- [ ] Loop Exercises
+- [x] Loop Exercises
 - [ ] Function Exercises
 - [ ] List Exercises
 - [ ] Dictionary Exercises
