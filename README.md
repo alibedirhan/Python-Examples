@@ -14,7 +14,7 @@ Link of the book [Book Link](https://link.springer.com/book/10.1007/978-3-319-14
 - [x] Introduction to Programming Exercises
 - [x] If Statement Exercises
 - [x] Loop Exercises
-- [ ] Function Exercises
+- [x] Function Exercises ->  95, 97, 100, 103 this exercises not-solved
 - [ ] List Exercises
 - [ ] Dictionary Exercises
 - [ ] File and Exception Exercises
