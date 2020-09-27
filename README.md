@@ -16,7 +16,7 @@ Link of the book [Book Link](https://link.springer.com/book/10.1007/978-3-319-14
 - [x] Loop Exercises
 - [x] Function Exercises ->  95, 97, 100, 103 this exercises not-solved
 - [x] List Exercises -> 120 not-solved
-- [ ] Dictionary Exercises
+- [x] Dictionary Exercises -> 140, 136 not-solved
 - [ ] File and Exception Exercises
 - [ ] Recursion Exercises
 
